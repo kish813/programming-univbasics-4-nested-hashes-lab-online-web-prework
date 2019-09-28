@@ -9,7 +9,6 @@ def hopper
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
           :languages => ["C"]
         }
      }
